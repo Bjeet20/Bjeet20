@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bjeet20
-- 👀 I’m interested in ... learning.
-- 🌱 I’m currently learning ... Python.
-- 💞️ I’m looking to collaborate on ... idk.
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me ... i’ll update this later.
 
 <!---
